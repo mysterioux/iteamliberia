@@ -32,6 +32,9 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 20px 0;
   padding: 0;
 }
+.colorme{
+  color:#FD0002;
+}
 
 /* Back to top button */
 .back-to-top {
@@ -1121,6 +1124,24 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: 1px solid green;
   color:#fff;
   font-size: 1.6em;
+}
+
+/* modal */
+.modal-footer .btn-secondary{
+  border: 2px solid red;
+  background: red;
+}
+.modal-footer .btn-secondary:hover{
+  border: 2px solid blue;
+  background: blue;
+}
+.modal-header{
+  border: 2px solid #0c2e8a;
+  background: #0c2e8a;
+  color: #fff;
+}
+.modal-body .phonelist{
+  list-style: none;
 }
 /*--------------------------------------------------------------
 # Footer
