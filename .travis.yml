@@ -8,4 +8,4 @@ node_js:
  install:
   -npm install -g firebase-tools
   after_success:
-    -firebase deply --toke $FIREBASE_TOKEN
+    -firebase deploy --toke $FIREBASE_TOKEN
