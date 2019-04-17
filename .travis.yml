@@ -11,4 +11,8 @@ notifications:
   email:
     recipents:
       - sabinovates@gmail.com
+<<<<<<< HEAD
   
+=======
+      - easytechlr@gmail.com
+>>>>>>> staging
